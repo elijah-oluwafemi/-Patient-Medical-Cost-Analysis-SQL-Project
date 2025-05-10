@@ -16,6 +16,7 @@ Identify high-risk groups for healthcare cost optimization.
 Guide data-driven decisions in public health, insurance modeling, and resource allocation.
 
 🔍 Key Insights
+
 📌 Descriptive Stats
 Avg Age: 39.21 | Avg BMI: 30.66 (Obese) | Avg Medical Charges: $13,270.42
 
