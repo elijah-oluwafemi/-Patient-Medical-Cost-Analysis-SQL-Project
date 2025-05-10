@@ -1,4 +1,4 @@
-# -Patient-Medical-Cost-Analysis-SQL-Project
+### -Patient-Medical-Cost-Analysis-SQL-Project
 A comprehensive SQL-based data analysis project exploring the relationship between medical charges and key patient attributes such as age, gender, BMI, smoking habits, family size, and region. Derived insights can support healthcare cost management, preventive strategies, and insurance policy optimization.
 
 📁 Dataset Overview
@@ -23,10 +23,12 @@ Avg Age: 39.21 | Avg BMI: 30.66 (Obese) | Avg Medical Charges: $13,270.42
 Gender	Avg Charges
 Male	$13,956.75
 Female	$12,569.58
+
 📌 Age vs Medical Charges
 Age Group	Avg Charges
 Senior (60+)	$21,248.02
 Teens (18–20)	$8,407.35
+
 📌 Smokers vs Non-Smokers
 Smokers incur 2–4x higher charges across all age groups.
 
@@ -38,6 +40,7 @@ Avg cost for high-spending non-smokers: $19,637
 BMI Class	Avg Cost
 Morbid Obesity	$16,784.62
 Normal Weight	$10,409.34
+
 📌 Region-Based Insights
 Southeast has highest charges ($14,735) and smoker count.
 
