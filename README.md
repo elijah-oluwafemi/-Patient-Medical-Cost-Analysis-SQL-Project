@@ -37,13 +37,13 @@ Avg cost for high-spending smokers: $32,121
 
 Avg cost for high-spending non-smokers: $19,637
 
-📌 BMI & Medical Cost
-BMI Class	Avg Cost
+📌 BMI & Medical Cost - 
+ BMI Class	Avg Cost
 Morbid Obesity	$16,784.62
 Normal Weight	$10,409.34
 
-📌 Region-Based Insights
-Southeast has highest charges ($14,735) and smoker count.
+📌 Region-Based Insights - 
+ Southeast has highest charges ($14,735) and smoker count.
 
 High correlation between region, smoking rate, and costs.
 
